@@ -10,6 +10,7 @@ namespace _2023_05_19
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("teszt");
         }
     }
 }
